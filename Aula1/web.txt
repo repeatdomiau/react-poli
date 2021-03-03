@@ -1,0 +1,23 @@
+cliente <-> servidor
+
+navegador -> servidor (requisição[request])
+navegador <- servidor (resposta[response])
+client side  server side
+
+protocolo HTTP (hypertext transfer protocol)
+text / json (js object notation)
+
+cliente => frontend => HTML + CCS + Javascript (React, Angular, Vue)
+servidor => backend => framework web (qualquer linguagem)
+
+Fullstack => cliente + servidor
+
+JQuery
+
+1980 -> 1990 -> 2007 -> 2009 -> 
+Estática -> Dinâmica (server) -> SPA (single page app)
+
+SEO Next
+
+
+

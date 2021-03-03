@@ -1,0 +1,237 @@
+Bernardo Rocha Coutinho19:00
+Boa noite!
+Paulo Otavio Marzochio Sestini19:00
+tudo bem!
+Victor Hoefling Padula19:00
+Boa noite
+Lucas Miguel Sellari19:00
+Boa noite!
+Kevin Taiyo Onishi19:00
+Boa noite!
+Vitor Walace de Moraes Alves19:00
+Boa noite!
+Gustavo Trivelatto Gabriel19:00
+Boa noite!
+Camila Lobianco19:00
+Boa noite!
+Arthur Pires da Fonseca19:00
+Buenas
+Luiz Fernando de Almeida Mota19:00
+boa noite
+Giovanna Morghett Gaboardi19:00
+Boa noite
+Andre Hideki Gashu Nishimura19:00
+boa noite!
+Gabriel Brandao de Carvalho19:00
+Boa noite
+Silas Lima e Silva19:00
+Boa noite!
+Gustavo Trivelatto Gabriel19:01
+Já usei HTML, e bem pouquinho de JS
+Paulo Otavio Marzochio Sestini19:01
+C, C++, Python, Java, e um pouquinho de JavaScript, sei o básico de HTML e CSS
+Gustavo Trivelatto Gabriel19:01
+Sou um pouco mais familiarizado com PHP
+Eduardo Thomaz dos Santos19:02
+Python,    Javascript,HTML e CSS/SASS, mas tamb ́em j ́a programei em C eC++, Java e PHP e atualmente estou aprendendo Elixir
+Silas Lima e Silva19:02
+Python, C e C++;
+
+Tive um contato breve com HTML em um curso da let's code
+Victor Hoefling Padula19:02
+Já programei em C, Java, Python e Erlang
+Luiz Fernando de Almeida Mota19:02
+já usei em uma coisa ou outra javascript
+Guilherme Mariano Silva Francisco19:02
+Python, javascript, C
+Camila Lobianco19:02
+Já usei HTML e CSS, peguei um pouco de JS, tbm aprendi C, C++, Python e Java
+Eduardo Thomaz dos Santos19:02
+Sim, estou achando bem estranho mas gostando bastante do elixir e do beam
+Vitor Walace de Moraes Alves19:02
+Já programei python, C, C++, um pouquino de Javascript com Jquery e o básico html também
+Victor Hoefling Padula19:03
+Usei num simulador de trânsito, o que mais tem é concorrência kkkk
+Eduardo Thomaz dos Santos19:03
+Sim
+Na NLW usava phoenix
+hahahahaha da até medo
+Você19:05
+https://code.visualstudio.com/
+Victor Hoefling Padula19:05
+Qual extensão vocês indicam pra react?
+Felipe Bagni19:05
+O Alexandre da turma disse que se inscreveu, mas nao recebeu o email de verificação...ele pode pedir pra entrar?
+João Pedro Baldan19:06
+Boa noite Felipe, pode sim
+Depois verificarei se o e-mail foi enviado 
+Rodrigo Kenji Aguena19:06
+tem como instalar snippets para react
+que são atalhos 
+Victor Hoefling Padula19:06
+Entendi
+beleza, obrigado
+Alexandre Marques Carrer19:07
+obrigado! tinha me inscrito nos dois cursos na mesma semana mas só chegou o invite da da semana que vem!
+Henrique Giabardo19:07
+da sim 
+Paulo Otavio Marzochio Sestini19:07
+tá boa sim
+Gustavo Trivelatto Gabriel19:07
+ta boa
+Luiz Fernando de Almeida Mota19:07
+dá sim
+Eduardo Thomaz dos Santos19:07
+Ta boa sim!
+Silas Lima e Silva19:07
+dá sim!
+Lucas Miguel Sellari19:08
+dá sim
+Alexandre Marques Carrer19:08
+pra confirmar me inscrevi agora pouco tempo atrás
+dá sim!
+João Pedro Baldan19:08
+Fechado Ale! 
+Enviei agora novamente :)
+Alexandre Marques Carrer19:08
+muuuuito obrigado!
+João Pedro Baldan19:10
+Magina! 
+Henrique Giabardo19:14
+qual é a definição de lingugagem dinamica? 
+Arthur Pires da Fonseca19:29
+Gabriel, uma sugestão: c n acha daora escrever o javascript no chrome? Pra ilustrar melhor pro pessoal
+Rodando o codigo ao vivo
+Lucas Lopes de Paula Junior19:43
+Gabriel, em React vamos mexer com programação assíncrona? (promises, async/await)?
+Ah, legal
+Você19:48
+https://developer.mozilla.org/pt-BR/
+MDN
+Victor Hoefling Padula20:11
+Foi em 2009 que o Chrome passou a comer 300 gb de RAM?
+Eduardo Thomaz dos Santos20:12
+Hj em dia ainda faz sentido o uso de Ajax? O socket.io pode substituilo?
+Victor Hoefling Padula20:12
+ahhh, certo
+Guilherme Mariano Silva Francisco20:12
+oloco, verdade
+Victor Hoefling Padula20:12
+maneiro, não sabia
+obrigado
+Vitor Walace de Moraes Alves20:13
+Curiosidade, conheço essa página de 96 que ainda está igual desde quando foi feita
+https://spacejam.com
+Eduardo Thomaz dos Santos20:14
+Tendi, obrigado
+Eduardo Thomaz dos Santos20:17
+Por que vc acha que o react é tão popular atualmente, enquanto o vue/angular são meio deixados de lado pela comunidade "mainstream" (e as vezes até xingados)
+Lucas Lopes de Paula Junior20:21
+Até que ponto o React pode ser "generalista" e ser usado de forma equivalente quanto aos  outros frameworks (ou até mesmo JS puro)?
+Lucas Lopes de Paula Junior20:30
+Muito legal
+Obrigado,  Gabriel
+Eduardo Thomaz dos Santos20:48
+Qual a diferença entre <div> e <spam>?
+Lucas Lopes de Paula Junior20:56
+A tag img dispara uma requisição por si só?
+Lucas Lopes de Paula Junior20:58
+Bacana
+Obrigado
+Você21:25
+Mimetype
+Lucas Lopes de Paula Junior21:44
+Se colocar "ul.lista, ol.lista { ... }" funciona?
+Entendi
+Valeu
+Victor Hoefling Padula21:54
+tem como passar esses arquivos depois?
+Paulo Otavio Marzochio Sestini21:54
+Gostei muito do estilo da aula
+Camila Lobianco21:54
+foi muito boa aula, parabéns!
+Vitor Ramalho Chiari21:54
+show
+Brian Andrade Nunes21:54
+aula dinâmica, gostei bastante
+Arthur Pires da Fonseca21:54
+Cara, achei mt legal pra quem n manja nada kk
+Victor Hoefling Padula21:54
+Achei ótima a aula
+Lucas Lopes de Paula Junior21:54
+Achei muito bacana a introdução e toda essa parte básica de HTML/CSS
+Caio Maeda21:54
+achei muito legal! acabei me perdendo um pouco na parte de html, mas essa pincelada já ajuda quando eu for estudar melhor
+Arthur Pires da Fonseca21:54
+Mas pra quem ja sabe um pouco talvez um pouco lento
+Silas Lima e Silva21:54
+muito boa essa visão geral sobre html e javascript, acho que vai ajudar bastante 
+Lucas Lopes de Paula Junior21:54
+Parabéns pelo seu conhecimento e didática
+Caio de Souza Barbosa Costa21:54
+gostei bastante, deu um bom overview pra quem n sabe nada dessa parte
+Lucas Lopes de Paula Junior21:55
+E muito obrigado pelo seu tempo hoje
+Guilherme Mariano Silva Francisco21:55
+Agradeço pela aula!
+Rafael Lucchesi Piacente21:55
+Muito boa a aula! Muito obrigado!
+Silas Lima e Silva21:55
+muito bacana a participação do seu gato tambem kkkkk
+Gabriel Pereira de Carvalho21:55
+já estou vendo que vou aprender bastante nos próximos dois dias.
+Alexandre Marques Carrer21:55
+show cat
+aaaaaaa
+Vitor Ramalho Chiari21:55
+miau
+Felipe Bagni21:55
+olha o gato aaaaaa
+Gabriel Kishida21:55
+que fofo!
+Caio de Souza Barbosa Costa21:55
+que fofo hahaha
+Felipe Bagni21:55
+miau
+Camila Lobianco21:55
+aaawn é igualzinho a minha
+Silas Lima e Silva21:55
+muito fofo hahahaha
+Rafael Lucchesi Piacente21:55
+Muito boa a aula! Obrigado Gabriel!!
+Marco Aurelio Conde Oliveira Prado21:55
+obrigado pela aula!
+Bernardo Rocha Coutinho21:55
+Beleuza, muito obrigado
+Gabriel Kishida21:55
+NOs vemos amanha!
+Lucas Lopes de Paula Junior21:55
+Obrigado!
+Felipe Bagni21:55
+beleza! obrigado!
+Camila Lobianco21:55
+obrigada pela aula!
+Paulo Otavio Marzochio Sestini21:55
+muito obrigado, até mais!
+Silas Lima e Silva21:55
+beleza, até amanhã!! 
+Guilherme Mariano Silva Francisco21:55
+até amanhã
+Caio de Souza Barbosa Costa21:55
+okay! Muito obrigado! Até amanhã!
+Felipe Bagni21:55
+ate mais
+Victor Hoefling Padula21:55
+beleza, obrigado pela aula
+Gabriel Brandao de Carvalho21:55
+Obrigado pela aula!
+Silas Lima e Silva21:55
+obrigado pela aula
+Rodrigo Tei Dalmas21:55
+obrigado pela aula!!!
+Lucas Miguel Sellari21:56
+Muito obrigado pela aula!!
+Arthur Pires da Fonseca21:56
+Boa noite!! Flws
+Vitor Walace de Moraes Alves21:56
+Boa Noite
